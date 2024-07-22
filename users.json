@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "email": "testemail1@gmail.com",
+      "password": "$2b$10$3euPcmQFCiblsZeEu5s7p.9OVHgeHWFDk9nhMqZ0m/3pd/lhwZgES"
+    },
+    {
+      "id": 2,
+      "email": "testemail2@gmail.com",
+      "password": "$2b$10$69SrwAoAUNC5F.gtLEvrNON6VQ5EX89vNqLEqU655Oy9PeT/HRM/a"
+    },
+    {
+      "id": 3,
+      "email": "testemail3@gmail.com",
+      "password": "$2b$10$9PU0sCJU201C3lO41bsOIu.HRrik7Alv2ZlxwM9A8lGr/clLK6D0m"
+    }
+  ]
+  
